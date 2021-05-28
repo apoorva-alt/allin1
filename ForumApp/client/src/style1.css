@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+}
+
+.topnav-brand {
+    color: wheat;
+    text-decoration: none;
+    font-size: large;
+}
+
+.topnav-brand1 {
+    color: wheat;
+    text-decoration: none;
+    font-size: large;
+    padding-top: 1%;
+}
+
+.topnav-brand1:hover {
+    color: rgb(179, 245, 240);
+    text-decoration: none;
+    font-size: large;
+    padding-top: 1%;
+}
+
+.topnav-right {
+    width: 90%;
+}
+
+.login {
+    width: 100%;
+    margin-top: 5%;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.box {
+    background-color: rgb(212, 243, 205);
+}
+
+.box1 {
+    background-color: #101c29;
+    margin-top: 1%;
+    padding: 2%;
+}
+
+.icon {
+    color: blanchedalmond;
+    margin-left: 25%;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
